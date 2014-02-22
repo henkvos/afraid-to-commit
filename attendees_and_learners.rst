@@ -92,6 +92,7 @@ PyCon UK in Coventry, 22nd September 2013
 
 DjangoCon US in Chicago, 2nd September 2013
 -------------------------------------------
+
 * Barbara Hendrick (bahendri)
 * Keith Edmiston <keith.edmiston@mccombs.utexas.edu>
 * David Garcia (davideire)
@@ -152,3 +153,5 @@ I followed the tutorial online
 * Ken Tam - 4th Jan 2014
 * Óscar M. Lage - http://github.com/oscarmlage
 * Bob Aalsma - https://github.com/BobAalsma/
+* Gonzo
+
